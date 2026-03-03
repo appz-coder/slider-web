@@ -60,6 +60,7 @@
   },
   "overrides": {
     "postcss-safe-parser": "^5.0.2",
-    "postcss": "^8.4.31"
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.5"
   }
 }
