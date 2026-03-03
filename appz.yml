@@ -8,13 +8,13 @@ build:
     env: DEV
     build_file: none
     output_files: output/*.zip
-    image_template: node-14.21
+    image_template: node-22.11
 
 
 deploy:
     context: appz-coder/DEV
     replicas: 1
-    resources: x-large
+    #resources: x-large
     port:
     - 3000
 
