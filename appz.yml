@@ -30,5 +30,5 @@ properties:
     REACT_APP_CLIENT_SECRET:
       vault: REACT_APP_CLIENT_SECRET
     NODE_OPTIONS: --openssl-legacy-provider
-    revision: 26
+    revision: 27
     page_color: Blue
